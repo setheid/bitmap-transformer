@@ -1,0 +1,17 @@
+{
+  "name": "bitmap-transformer",
+  "version": "0.1.0",
+  "description": "Transforms the colors in a bitmap image and creates a new bitmap image.",
+  "main": "bitmap-transformer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "setheid",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^2.0.0",
+    "gulp-mocha": "^2.2.0"
+  }
+}
